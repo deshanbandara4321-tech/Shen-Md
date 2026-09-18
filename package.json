@@ -4,7 +4,7 @@
   "description": "A Powerfull Whatsapp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝖲𝖧𝖤𝖭-𝖬𝖣",
     "stop": "pm2 stop 𝖲𝖧𝖤𝖭-𝖬𝖣",
     "restart": "pm2 restart 𝖲𝖧𝖤𝖭-𝖬𝖣"
   },
